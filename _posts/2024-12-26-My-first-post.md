@@ -11,33 +11,37 @@ This blog is a personal space where I can share my thoughts, experiences, and le
 
 ---
 
+
 ## A Little About Me
 I’m someone who’s always been curious about life’s big questions:
 - What makes life fulfilling?
 - How can we become the best versions of ourselves?
 - How do we find the things that truly set our souls on fire?
 
-These questions have driven me to explore self-improvement, reflect deeply, and step outside my comfort zone. While I don’t have all the answers yet (who does?), I’m excited to share what I learn along the way.
+These questions have driven me to explore self-improvement, reflect deeply, and step outside my comfort zone. While I don’t have all the answers yet (who does?), I’m excited to share what I learn along the way. This year, I decided to teach myself how to code and navigate the vast space of computer programming. To say it's been easy would be an understatement, but it has been very rewarding. I like being hands-on in my work and creating something where you can see the results appear in front of you on a screen keeps me motivated to push through the difficult moments. 
 
 ---
 
+
 ## Why This Blog?
 I created this blog as a way to:
-1. **Document My Journey** – Writing helps me process my thoughts and track my progress.
+1. **Document My Journey** – Writing helps me process my thoughts and track my progress. By writing about it I end up teaching myself and learning the concepts or topics better.
 2. **Connect With Others** – I believe we’re all on a similar path in some way. By sharing my story, I hope to connect with like-minded people and learn from you, too.
 3. **Inspire Growth** – If anything I share sparks a moment of reflection or inspiration for you, that would mean the world to me.
 
 ---
 
+
 ## What to Expect
 Here are a few things I plan to write about:
 - **Life Lessons** – Stories from my own experiences and what they taught me.
 - **Self-Improvement Tips** – Practical advice for growing and improving each day.
-- **Finding Passion** – My experiments with new hobbies and how I’m exploring my purpose.
+- **Finding Passion** – My experiments with new hobbies and how I’m exploring my purpose - currently coding!
 
 Of course, this blog will evolve as I do, so who knows where it might take us!
 
 ---
+
 
 ## Let’s Connect!
 I’d love to hear from you! Feel free to leave a comment below or reach out to me directly through email: mailto:lucas.patriquin@gmail.com.
