@@ -2,8 +2,6 @@
 title: Welcome to my blog
 ---
 
-# Welcome to My Blog
-
 **Description:**  
 A blog about my life, my continuous pursuit for self-improvement, and my ongoing search for my "passion."
 
